@@ -1,0 +1,17 @@
+{
+  "name": "Curriculumvitae",
+  "version": "1.0.0-rc1",
+  "description": "Boyce's Curriculum Vitae for Front-end Dev Engineer",
+  "keywords": [
+    "cv",
+    "resume",
+    "Front-end"
+  ],
+  "author": "Caoyijian",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.0-rc1",
+    "grunt-contrib-sass": "*",
+    "sass": "^0.5.0"
+  }
+}
